@@ -1,0 +1,14 @@
+
+
+
+HomeController sınıfı Ana sayfayı kontrol eder.
+GirisController sınıfı Giriş sayfasını kontrol eder.
+Diziler interface'i dizileri tutar.
+Hasta sınıfı hastanın bilgilerini tutar ve Insan sınıfından kalıtım alır.
+Insan sınıfı Hasta sınıfına kalıtım verir.
+
+
+hastanınkiler listesi hastanın ilaçlarını tutar.
+recetedekiler listesi reçeteye yazılan ilaçları tutar.
+eczanedekiler listesi eczanenin ilaçlarını tutar.
+hastalar listesi hastaları tutar.
